@@ -1,7 +1,8 @@
 :root {
     --main-white: #fefdff;
-    --main-gray: #acc6dd;
+    --main-gray: #c6d5e5;
     --main-orange: #eeaf52;
+    --second-orange: #F7B654;
     --main-yellow: #edd300;
     --main-brown: #5f5249;
     --main-black: #272727;
@@ -11,8 +12,6 @@
 body {
     background: linear-gradient(70deg, var(--main-black)17%, var(--main-brown) 83%);
     font-family: var(--main-font);
-    font-size: 16px;
-    font-weight: 400;
 }
 
 .header {
@@ -69,7 +68,7 @@ body {
 }
 
 .primary-container a {
-    width: 30%;
+    width: 20%;
     margin: 2em auto;
     display: grid;
     justify-content: center;
@@ -77,20 +76,29 @@ body {
 
 .container_button {
     background-color: var(--main-orange);
-    border-radius: 20px;
+    font-family: var(--main-font);
+    font-size: 20px;
+    border-radius: 10px;
     padding: 1em;
     color: var(--main-white);
     text-decoration: none;
     margin-bottom: 1em;
+    cursor: pointer;
     justify-content: center;
     align-items: center;
+    display: inline-flex;
+    font-weight: 700;
 }
 
+.container_button:hover {
+    background-color: var(--second-orange);
+}
 
 .container {
-    height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
+    height: 100%;
+    padding: 5em 5em 5em 5em;
 }
 
 .img_title {
@@ -128,6 +136,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     color: var(--main-gray);
+    line-height: 1.5;
 }
 
 .container_box_primary {
@@ -141,12 +150,6 @@ body {
     margin-bottom: 0.1em;
 }
 
-.text_description {
-    font-weight: 400;
-    font-size: 16px;
-    color: var(--main-gray);
-}
-
 .container_description {
     padding: 1em;
     margin: 3em 0 3em 0;
@@ -155,6 +158,9 @@ body {
 .list_description {
     color: var(--main-gray);
     margin-top: 0.5em;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.4;
 }
 
 .items_list {
@@ -177,6 +183,7 @@ body {
 
 .video-container h2 {
     text-align: center;
+    margin-bottom: 1em;
 }
 
 .video-trailer {
@@ -185,7 +192,6 @@ body {
     display: grid;
     justify-content: center;
 }
-
 
 .footer {
     background-color: var(--main-black);
