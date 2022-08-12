@@ -36,10 +36,12 @@
 
 <h3>Destktop</h3>
 
+![demo-satisfactory-landing-page-desktop](https://user-images.githubusercontent.com/89096854/184401950-eb93e57c-d38e-4cc2-a895-e2c137242dcd.gif)
+
 
 <h3>Mobile</h3>
 
-
+![demo-satisfactory-landing-page-mobile](https://user-images.githubusercontent.com/89096854/184402460-914f256e-50ac-42b2-988b-d370a865444e.gif)
 
 <h2 id="screenshots">Screenshots</h2>
 
@@ -50,10 +52,6 @@
 <h3>Mobile</h3>
 
 ![satisfactory-landing-page-1-mobile](https://user-images.githubusercontent.com/89096854/184380941-c1a57b56-e67a-4c7e-ba06-1f42a9c815c8.PNG)
-
-
-
-
 
 <h2 id="acesso-a-page">Acesso a Página</h2>
 https://landing-page-satisfactory.vercel.app/
