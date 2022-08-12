@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow"/>
+<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
 
 <h1>Satisfactory Landing Page</h2>
 </p>Acesso ao projeto: https://landing-page-satisfactory.vercel.app/</p>
