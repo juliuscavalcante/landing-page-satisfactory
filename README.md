@@ -4,9 +4,10 @@
 
 <h2>Sumário</h2>
 <ul>
- <li><a href="#objetivo">Objetivos</a></li> 
+ <li><a href="#objetivo">Objetivo</a></li> 
  <li><a href="#sobre-o-projeto">Sobre</a></li>
  <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadass</a></li>
+ <li><a href="#demonstracao">Demonstração</a></li> 
  <li><a href="#screenshots">Screenshots</a></li> 
  <li><a href="#acesso-a-pagina">Acesso a Página</a></li>
  <li><a href="#pontos-de-melhoria">Pontos de Melhoria</a></li> 
@@ -31,6 +32,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+<h2 id="demonstracao">Demonstração</h2>
+
+<h3>Destktop</h3>
+
+
+<h3>Mobile</h3>
+
+
+
 <h2 id="screenshots">Screenshots</h2>
 
 <h3>Destktop</h3>
@@ -40,6 +50,9 @@
 <h3>Mobile</h3>
 
 ![satisfactory-landing-page-1-mobile](https://user-images.githubusercontent.com/89096854/184380941-c1a57b56-e67a-4c7e-ba06-1f42a9c815c8.PNG)
+
+
+
 
 
 <h2 id="acesso-a-page">Acesso a Página</h2>
