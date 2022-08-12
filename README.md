@@ -33,11 +33,11 @@
 
 <h2 id="screenshots">Screenshots</h2>
 
+<h3>Destktop</h3>
+
 ![satisfactory-landing-page-1](https://user-images.githubusercontent.com/89096854/184380887-1ce314ec-59c7-4128-95e7-3356dce430b6.png)
 
-![satisfactory-landing-page-2](https://user-images.githubusercontent.com/89096854/184380921-61f3e354-98d8-452b-8e14-2cd84097b687.PNG)
-
-![satisfactory-landing-page-3](https://user-images.githubusercontent.com/89096854/184380928-18a86480-57c9-478f-b9ca-b8c91d5d591a.PNG)
+<h3>Mobile</h3>
 
 ![satisfactory-landing-page-1-mobile](https://user-images.githubusercontent.com/89096854/184380941-c1a57b56-e67a-4c7e-ba06-1f42a9c815c8.PNG)
 
