@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow"/>
 
 <h1>Satisfactory Landing Page</h2>
+</p>Acesso ao projeto: https://landing-page-satisfactory.vercel.app/</p>
 
 <h2>Sumário</h2>
 <ul>
@@ -54,7 +55,9 @@
 ![satisfactory-landing-page-1-mobile](https://user-images.githubusercontent.com/89096854/184380941-c1a57b56-e67a-4c7e-ba06-1f42a9c815c8.PNG)
 
 <h2 id="acesso-a-page">Acesso a Página</h2>
-https://landing-page-satisfactory.vercel.app/
+
+<p>Foi feito o deploy da página na plataforma Vercel:</p>
+</p>https://landing-page-satisfactory.vercel.app/</p>
 
 <h2 id="pontos-de-melhoria">Pontos de Melhoria</h2>
 
