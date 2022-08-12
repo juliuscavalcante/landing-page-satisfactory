@@ -34,7 +34,7 @@ https://landing-page-satisfactory.vercel.app/
 <h2 id="pontos-de-melhoria">Pontos de Melhoria</h2>
 
 <ul>
-  <li> Responsividade para Mobile</li>
+  <li> Adicionar Mobile Menu</li>
   <li> Melhorar o layout dos botões</li>
   <li> Inserir icones dentro dos botões</li>
 </ul>
