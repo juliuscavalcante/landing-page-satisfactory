@@ -6,7 +6,7 @@
 <h2>Sumário</h2>
 <ul>
  <li><a href="#objetivo">Objetivo</a></li> 
- <li><a href="#sobre-o-projeto">Sobre</a></li>
+ <li><a href="#sobre-o-projeto">Sobre o Projeto</a></li>
  <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
  <li><a href="#demonstracao">Demonstração</a></li> 
  <li><a href="#screenshots">Screenshots</a></li> 
