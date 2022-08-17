@@ -7,7 +7,7 @@
 <ul>
  <li><a href="#objetivo">Objetivo</a></li> 
  <li><a href="#sobre-o-projeto">Sobre</a></li>
- <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadass</a></li>
+ <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
  <li><a href="#demonstracao">Demonstração</a></li> 
  <li><a href="#screenshots">Screenshots</a></li> 
  <li><a href="#acesso-a-pagina">Acesso a Página</a></li>
