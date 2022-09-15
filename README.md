@@ -63,6 +63,6 @@
 
 <ul>
   <li> Adicionar Mobile Menu</li>
-  <li> Melhorar o layout dos botões</li>
+  <li> Melhorar layout dos botões</li>
   <li> Inserir icones dentro dos botões</li>
 </ul>
